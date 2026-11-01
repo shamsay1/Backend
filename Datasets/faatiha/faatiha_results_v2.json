@@ -1,0 +1,58 @@
+[
+  {
+    "ayah_number": 1,
+    "quran_text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "canonical_phoneme": "بِسمِ للَااهِ ررَحمَاانِ ررَحِۦۦم",
+    "model_result": "بِسمِللَااهِررَحمَاانِررَحِۦۦۦۦم",
+    "canonical_source_match": 100.0,
+    "phoneme_similarity": 96.77
+  },
+  {
+    "ayah_number": 2,
+    "quran_text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+    "canonical_phoneme": "ءَلحَمدُ لِللَااهِ رَببِ لعَاالَمِۦۦن",
+    "model_result": "ءَلحَمدُلِللَااهِرَببِلعَاالَمِۦۦۦۦن",
+    "canonical_source_match": 98.51,
+    "phoneme_similarity": 97.14
+  },
+  {
+    "ayah_number": 3,
+    "quran_text": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "canonical_phoneme": "ءَررَحمَاانِ ررَحِۦۦم",
+    "model_result": "ءَررَحمَاانِررَحِۦۦۦۦم",
+    "canonical_source_match": 100.0,
+    "phoneme_similarity": 95.24
+  },
+  {
+    "ayah_number": 4,
+    "quran_text": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+    "canonical_phoneme": "مَاالِكِ يَومِ ددِۦۦن",
+    "model_result": "مَاالِكِيَومِددِۦۦۦۦن",
+    "canonical_source_match": 97.56,
+    "phoneme_similarity": 95.0
+  },
+  {
+    "ayah_number": 5,
+    "quran_text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "canonical_phoneme": "ءِييَااكَ نَعبُدُ وَءِييَااكَ نَستَعِۦۦن",
+    "model_result": "ءِييَااكَنَعبُدُوَءِييَااكَنَستَعِۦۦۦۦن",
+    "canonical_source_match": 100.0,
+    "phoneme_similarity": 97.37
+  },
+  {
+    "ayah_number": 6,
+    "quran_text": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "canonical_phoneme": "ءِهدِنَ صصِرَااطَ لمُستَقِۦۦم",
+    "model_result": "ءِهدِنَصصِرَااطَلمُستَقِۦۦۦۦم",
+    "canonical_source_match": 98.41,
+    "phoneme_similarity": 96.43
+  },
+  {
+    "ayah_number": 7,
+    "quran_text": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "canonical_phoneme": "صِرَااطَ للَذِۦۦنَ ءَنعَمتَ عَلَيهِم غَيرِ لمَغضُۥۥبِ عَلَيهِم وَلَ ضضَااااااللِۦۦن",
+    "model_result": "صِرَااطَللَذِۦۦنَءَنعَمتَعَلَيهِمغَيرِلمَغضُۥۥبِعَلَيهِموَلَضضَااااااللِۦۦۦۦن",
+    "canonical_source_match": 99.38,
+    "phoneme_similarity": 98.68
+  }
+]

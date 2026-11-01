@@ -1,0 +1,58 @@
+[
+  {
+    "surah": 1,
+    "surah_name": "Al-Faatiha",
+    "ayah_id": 1,
+    "ayah_number": 1,
+    "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "audio": "ayah_001.mp3"
+  },
+  {
+    "surah": 1,
+    "surah_name": "Al-Faatiha",
+    "ayah_id": 2,
+    "ayah_number": 2,
+    "text": "ٱلْحَمْدُ لِلَّهِ رَبِّ ٱلْعَٰلَمِينَ",
+    "audio": "ayah_002.mp3"
+  },
+  {
+    "surah": 1,
+    "surah_name": "Al-Faatiha",
+    "ayah_id": 3,
+    "ayah_number": 3,
+    "text": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+    "audio": "ayah_003.mp3"
+  },
+  {
+    "surah": 1,
+    "surah_name": "Al-Faatiha",
+    "ayah_id": 4,
+    "ayah_number": 4,
+    "text": "مَٰلِكِ يَوْمِ ٱلدِّينِ",
+    "audio": "ayah_004.mp3"
+  },
+  {
+    "surah": 1,
+    "surah_name": "Al-Faatiha",
+    "ayah_id": 5,
+    "ayah_number": 5,
+    "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+    "audio": "ayah_005.mp3"
+  },
+  {
+    "surah": 1,
+    "surah_name": "Al-Faatiha",
+    "ayah_id": 6,
+    "ayah_number": 6,
+    "text": "ٱهْدِنَا ٱلصِّرَٰطَ ٱلْمُسْتَقِيمَ",
+    "audio": "ayah_006.mp3"
+  },
+  {
+    "surah": 1,
+    "surah_name": "Al-Faatiha",
+    "ayah_id": 7,
+    "ayah_number": 7,
+    "text": "صِرَٰطَ ٱلَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ ٱلْمَغْضُوبِ عَلَيْهِمْ وَلَا ٱلضَّآلِّينَ",
+    "audio": "ayah_007.mp3"
+  }
+]

@@ -1,0 +1,13 @@
+venv/
+venv312/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+*.log
+
+Models/quran/zipformer_p_arabic_v3.int8.onnx

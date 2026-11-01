@@ -1,0 +1,38 @@
+[
+    {
+        "ayah": 1,
+        "audio": "ayah_001.wav",
+        "text": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+        "canonical_phoneme": "بِسمِ للَااهِ ررَحمَاانِ ررَحِۦۦم",
+        "model_result": "بِسمِللَااهِررَحمَاانِررَحِۦۦۦۦم",
+        "canonical_token_count": 30,
+        "model_token_count": 32,
+        "edit_distance": 2,
+        "error_rate": 6.67,
+        "alignment_match": 93.33
+    },
+    {
+        "ayah": 3,
+        "audio": "ayah_003.wav",
+        "text": "ٱلرَّحْمَٰنِ ٱلرَّحِيمِ",
+        "canonical_phoneme": "ءَررَحمَاانِ ررَحِۦۦم",
+        "model_result": "ءَررَحمَاانِررَحِۦۦۦۦم",
+        "canonical_token_count": 20,
+        "model_token_count": 22,
+        "edit_distance": 2,
+        "error_rate": 10.0,
+        "alignment_match": 90.0
+    },
+    {
+        "ayah": 5,
+        "audio": "ayah_005.wav",
+        "text": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ",
+        "canonical_phoneme": "ءِييَااكَ نَعبُدُ وَءِييَااكَ نَستَعِۦۦن",
+        "model_result": "ءِييَااكَنَعبُدُوَءِييَااكَنَستَعِۦۦۦۦن",
+        "canonical_token_count": 37,
+        "model_token_count": 39,
+        "edit_distance": 2,
+        "error_rate": 5.41,
+        "alignment_match": 94.59
+    }
+]
